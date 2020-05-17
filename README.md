@@ -155,6 +155,8 @@ root@kali:~# aireplay-ng --deauth 10000 -a 56:13:58:76:5B:55 wlan0
 
 ```
 
-See deauthentication attack is required in attack you can treat as a small part of any other attck so keep a good grip on it.
+See deauthentication attack is required in many  attack,  you can treat it as a small part of many network accessing attacks so keep a good grip on it.
 
-Author - [Error](https://github.com/Error-200)
+---
+
+**Author** - [Error](https://github.com/Error-200)
