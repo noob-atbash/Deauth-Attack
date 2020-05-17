@@ -62,7 +62,7 @@ root@kali:~# aireplay-ng --deauth 10000 -a (MAC ADDRESS OF TARGET ACCESS POINT) 
 
 - MAC ADDRESS OF TARGET ACCESS POINT: BSSID
 - MAC ADDRESS OF MACINE TO DISCONNET: STATION
-10000: packets using to deauthenticate
+- 10000: packets using to deauthenticate
 
 STEP 3: (IN ANOTHER TAB)
 ![](img/de/n3.png)
